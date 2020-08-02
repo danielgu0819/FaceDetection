@@ -1,0 +1,13 @@
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.exe
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.deps.json
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.runtimeconfig.json
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.runtimeconfig.dev.json
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.dll
+E:\ComIT学习\test_c4\bin\Debug\netcoreapp3.1\test_c4.pdb
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.csprojAssemblyReference.cache
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.AssemblyInfoInputs.cache
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.AssemblyInfo.cs
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.csproj.CoreCompileInputs.cache
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.dll
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.pdb
+E:\ComIT学习\test_c4\obj\Debug\netcoreapp3.1\test_c4.genruntimeconfig.cache

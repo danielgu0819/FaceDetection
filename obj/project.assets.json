@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ComIT学习\\test_c3\\test_c3.csproj",
-      "projectName": "test_c3",
-      "projectPath": "E:\\ComIT学习\\test_c3\\test_c3.csproj",
+      "projectUniqueName": "E:\\ComIT学习\\test_c4\\test_c4.csproj",
+      "projectName": "test_c4",
+      "projectPath": "E:\\ComIT学习\\test_c4\\test_c4.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "E:\\ComIT学习\\test_c3\\obj\\",
+      "outputPath": "E:\\ComIT学习\\test_c4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
